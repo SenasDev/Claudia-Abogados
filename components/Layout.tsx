@@ -30,7 +30,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
                <Scale size={24} />
             </div>
             <span className="text-xl font-bold font-serif tracking-tight text-primary-900 dark:text-primary-100">
-              LexImmobiliaria
+              Claud-IAbogados
             </span>
           </Link>
 

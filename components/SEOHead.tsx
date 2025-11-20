@@ -31,7 +31,7 @@ export const SEOHead: React.FC<SEOHeadProps> = ({ pageKey }) => {
           {
             "@context": "https://schema.org",
             "@type": "LegalService",
-            "name": "LexImmobiliaria",
+            "name": "Claud-IAbogados",
             "image": "",
             "address": {
               "@type": "PostalAddress",
