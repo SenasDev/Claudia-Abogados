@@ -3,10 +3,10 @@ import { Language, TranslationDictionary, TeamMember } from './types';
 export const CONTENT: Record<Language, TranslationDictionary> = {
   [Language.ES]: {
     meta: {
-      homeTitle: "LexImmobiliaria | Abogados Inmobiliarios Expertos",
-      aboutTitle: "Sobre Nosotros | LexImmobiliaria",
+      homeTitle: "Claud-IAbogados | Abogados Inmobiliarios Expertos",
+      aboutTitle: "Sobre Nosotros | Claud-IAbogados",
       servicesTitle: "Servicios Legales Inmobiliarios",
-      contactTitle: "Contacto | LexImmobiliaria",
+      contactTitle: "Contacto | Claud-IAbogados",
       description: "Estudio jurídico líder en España especializado en derecho inmobiliario, contratos y litigios."
     },
     nav: {
@@ -72,7 +72,7 @@ export const CONTENT: Record<Language, TranslationDictionary> = {
   },
   [Language.EN]: {
     meta: {
-      homeTitle: "LexImmobiliaria | Expert Real Estate Lawyers",
+      homeTitle: "Claud-IAbogados | Expert Real Estate Lawyers",
       aboutTitle: "About Us | LexImmobiliaria",
       servicesTitle: "Real Estate Legal Services",
       contactTitle: "Contact | LexImmobiliaria",
